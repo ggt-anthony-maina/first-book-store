@@ -1,0 +1,20 @@
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+  }
+    /* Styles for the top bar */
+ 
+  
+  /* Styles for the logo */
+  .logo {
+    font-size: 1.5rem;
+  }
+   /* Styles for the settings icon */
+   .settings {
+    font-size: 1.2rem;
+  }
+  
